@@ -4,6 +4,7 @@
 
 [![Build Status](https://travis-ci.org/wen-chih/FrontierEfficiencyAnalysis.jl.svg?branch=master)](https://travis-ci.org/wen-chih/FrontierEfficiencyAnalysis.jl)
 
+<br>
 
 FrontierEfficiencyAnalysis.jl is a package for Frontier Efficiency Analysis (aka Data Envelopment Analysis, DEA) computation. It is embedded in the [Julia](https://julialang.org/) programming language, and is an extension to the [JuMP](https://github.com/JuliaOpt/JuMP.jl) modeling language. It is particularly designed to enhance large-scale DEA computation and to solve DEA problems by size-limited solvers.
 
