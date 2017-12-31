@@ -10,7 +10,7 @@ FrontierEfficiencyAnalysis.jl is a package for Frontier Efficiency Analysis (aka
 
 
 ## Installation
-In Julia, call `Pkg.clone("git://github.com/wen-chih/FrontierEfficiencyAnalysis.jl.git")` to install FrontierEfficiencyAnalysis.
+In Julia, call `Pkg.add("FrontierEfficiencyAnalysis")` to install FrontierEfficiencyAnalysis.
 
 
 ## Usage
