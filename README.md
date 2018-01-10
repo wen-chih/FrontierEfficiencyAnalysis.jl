@@ -122,8 +122,8 @@ If you find FrontierEfficiencyAnalysis useful in your work, we kindly request th
 and
 
 	@misc{chen2017b,
-	Author = {Wen-Chih Chen},
-	Title = {Solving size-limited linear programs to determine productive efficiencies with big data},
+	Author = {Wen-Chih Chen and Yueh-Shan Chung},
+	Title = {A generalized non-radial efficiency measure and its application in DEA computation},
 	Year = {2017},
 	Eprint = {http://dx.doi.org/10.2139/ssrn.2496847},
 	}
